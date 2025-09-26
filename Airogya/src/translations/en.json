@@ -1,0 +1,335 @@
+{
+  "app": {
+    "title": "Airogya",
+    "description": "Your AI-Powered Health Assistant"
+  },
+  "header": {
+    "tagline": "Your Health, Our Priority",
+    "home": "Home",
+    "profile": "Profile",
+    "vaccination_tracker": "Vaccination Tracker",
+    "outbreak_alerts": "Outbreak Alerts",
+    "arogya_chat": "Airogya Chat",
+    "health_check": "Health Check",
+    "find_centers": "Find Centers",
+    "services": "Services",
+    "government_schemes": "Government Schemes",
+    "farmer_health": "Farmer Health",
+    "schemes": "Schemes",
+    "login": "Login",
+    "get_started": "Get Started"
+  },
+  "hero": {
+    "title": "Your health",
+    "subtitle": "our priority"
+  },
+  "stats": {
+    "communities_served": "Communities Served",
+    "vaccinations_tracked": "Vaccinations Tracked",
+    "health_alerts_sent": "Health Alerts Sent",
+    "expert_doctors": "Expert Doctors",
+    "health_checks": "Health Checks",
+    "healthcare_centers": "Healthcare Centers",
+    "support_available": "Support Available"
+  },
+  "services": {
+    "title": "Healthcare Services",
+    "subtitle": "Choose from our comprehensive range of health services designed for rural communities",
+    "govt_schemes": {
+      "title": "Government Schemes",
+      "description": "Access healthcare schemes and benefits for rural families"
+    },
+    "medical_assistant": {
+      "title": "Medical Assistant",
+      "description": "Chat with our AI assistant for symptom analysis"
+    },
+    "health_risk_assessment": {
+      "title": "Health Risk Assessment",
+      "description": "Assess your health risks based on lifestyle factors"
+    },
+    "vaccination_tracker": {
+      "title": "Vaccination Tracker",
+      "description": "Track vaccination schedules and get reminders"
+    },
+    "outbreak_alerts": {
+      "title": "Outbreak Alerts",
+      "description": "Stay updated on health emergencies in your area"
+    },
+    "farmer_health": {
+      "title": "Health for Farmers",
+      "description": "Specialized health guidance for agricultural workers"
+    }
+  },
+  "symptom_checker": {
+    "title": "AI Symptom Checker",
+    "subtitle": "Describe your symptoms and get AI-powered health insights",
+    "placeholder": "Describe your symptoms in detail...",
+    "send": "Send",
+    "loading": "Analyzing symptoms...",
+    "emergency_detected": "Emergency Detected",
+    "get_help": "Get Emergency Help",
+    "greeting": {
+      "anonymous": "Hello! I'm your AI health assistant. Please provide your details to get started with personalized health guidance."
+    },
+    "details_form": {
+      "title": "Personal Information",
+      "age": "Age",
+      "age_placeholder": "Enter your age",
+      "gender": "Gender",
+      "male": "Male",
+      "female": "Female",
+      "other": "Other",
+      "continue": "Continue"
+    },
+    "error": {
+      "title": "Error",
+      "description": "Unable to analyze symptoms. Please try again."
+    }
+  },
+  "chatbot": {
+    "greeting": "Hello! I'm Dr. Airogya, your AI health assistant. How can I help you today?",
+    "thinking": "Let me analyze that for you...",
+    "emergency_response": "This sounds serious and needs immediate medical attention. Please call 112 or go to the nearest emergency room right away.",
+    "general_advice": "Based on your symptoms, I recommend consulting with a healthcare professional for proper diagnosis and treatment.",
+    "error_message": "I apologize, but I'm having trouble connecting to my AI service right now. Please try again in a few moments."
+  },
+  "emergency": {
+    "title": "Emergency Alert",
+    "call_now": "Call Emergency Services",
+    "contacts": {
+      "title": "Emergency Contacts",
+      "ambulance": "Call 108 - Ambulance",
+      "emergency": "Call 102 - Emergency Medical"
+    },
+    "info": {
+      "title": "Emergency Information",
+      "description": "For immediate medical emergencies, call the numbers above. They provide 24/7 multilingual support across India."
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Welcome Back",
+      "subtitle": "Sign in to your Airogya account",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Sign In",
+      "google": "Continue with Google",
+      "signup_link": "Don't have an account? Sign up"
+    },
+    "signup": {
+      "title": "Create Account",
+      "subtitle": "Join Airogya for better health management",
+      "name": "Full Name",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Create Account",
+      "google": "Continue with Google",
+      "login_link": "Already have an account? Sign in"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "close": "Close",
+    "next": "Next",
+    "previous": "Previous",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "select_language": "Select Language"
+  },
+  "language": {
+    "english": "English",
+    "hindi": "हिन्दी",
+    "odia": "ଓଡ଼ିଆ"
+  },
+
+  "homepage": {
+    "quick_health_check": {
+      "title": "Quick Health Check",
+      "subtitle": "Get instant AI-powered health insights",
+      "describe_symptoms": "Describe your symptoms",
+      "ai_analysis": "AI will analyze and provide guidance",
+      "placeholder": "Describe your symptoms in detail...",
+      "quick_symptoms": "Quick Symptoms",
+      "selected_symptoms": "Selected Symptoms",
+      "analyzing": "Analyzing symptoms...",
+      "analyze_symptoms": "Analyze Symptoms"
+    },
+    "health_updates": {
+      "title": "Live Health Data",
+      "live_data": "Real-time health updates and data",
+      "health_schemes": "Government Health Schemes",
+      "government_programs": "Access healthcare schemes and programs",
+      "schemes_count": "11 Active Schemes",
+      "active": "Active",
+      "vaccinations": "Vaccination Tracker",
+      "track_progress": "Track vaccination schedules and progress",
+      "vaccination_percentage": "85% Coverage",
+      "coverage": "Coverage",
+      "farmer_health": "Health for Farmers",
+      "rural_healthcare": "Specialized healthcare for farmers",
+      "farmers_count": "50K+ Farmers",
+      "served": "Served"
+    },
+    "emergency_contacts": {
+      "title": "Emergency Contacts",
+      "ambulance": "Emergency Ambulance",
+      "emergency_number": "24/7 emergency medical services",
+      "call": "Call Now",
+      "nearest_hospital": "Nearest Hospital",
+      "find_nearby_centers": "Find nearby medical centers",
+      "find": "Find"
+    }
+  },
+  "pages": {
+    "government_schemes": {
+      "portal_title": "Healthcare Schemes Portal",
+      "title": "Health Schemes",
+      "subtitle": "Comprehensive information about central and state government health schemes designed to provide accessible healthcare for all citizens.",
+      "stats": {
+        "active_schemes": "Active Health Schemes",
+        "maximum_coverage": "Maximum Coverage",
+        "beneficiaries_covered": "Beneficiaries Covered"
+      },
+      "search": {
+        "placeholder": "Search schemes by name, description, or type...",
+        "filter_by_type": "Filter by type",
+        "filter_by_level": "Filter by level",
+        "all_types": "All Types",
+        "all_levels": "All Levels"
+      },
+      "no_results": {
+        "title": "No schemes found",
+        "description": "Try adjusting your search criteria or filters to find relevant health schemes."
+      },
+      "scheme_details": {
+        "launched": "Launched",
+        "beneficiaries": "Beneficiaries",
+        "coverage": "Coverage",
+        "benefits": "Benefits",
+        "application_process": "Application Process",
+        "contact_info": "Contact Info"
+      }
+    },
+    "healthcare_centers": {
+      "title": "Healthcare Center Nearby",
+      "subtitle": "Enter your PIN to locate healthcare centers.",
+      "search": {
+        "placeholder": "Enter PIN code",
+        "button": "Search",
+        "searching": "Searching...",
+        "hospital_type_label": "Hospital Type",
+        "emergency_services_label": "Emergency Services",
+        "all_types": "All Types",
+        "government": "Government",
+        "private": "Private",
+        "charitable": "Charitable",
+        "specialty": "Specialty",
+        "all_hospitals": "All Hospitals",
+        "emergency_available": "Emergency Available",
+        "no_emergency": "No Emergency"
+      },
+      "results": {
+        "emergency": "Emergency",
+        "visit_website": "Visit Website",
+        "get_directions": "Get Directions",
+        "specialties": "Specialties",
+        "facilities": "Facilities",
+        "more_specialties": "+{{count}} more",
+        "more_facilities": "+{{count}} more",
+        "more": "more"
+      },
+      "no_results": {
+          "title": "No hospitals found",
+          "description": "No hospitals found for the entered PIN code. Please try a different PIN code."
+        },
+      "search_failed": {
+        "title": "Search failed"
+      }
+    },
+    "farmer_health": {
+      "title": "Farmer Health Guide",
+      "subtitle": "Specialized health guidance for agricultural workers",
+      "tabs": {
+        "farm_safety": "Farm Safety",
+        "common_issues": "Common Issues",
+        "prevention": "Prevention",
+        "emergency_care": "Emergency Care"
+      },
+      "farm_safety": {
+        "pesticide_safety": {
+          "title": "Pesticide Safety",
+          "points": [
+            "Always wear protective equipment",
+            "Read labels carefully before use",
+            "Store chemicals safely away from children",
+            "Wash hands thoroughly after handling",
+            "Never eat or drink while spraying"
+          ]
+        },
+        "machinery_safety": {
+          "title": "Machinery Safety",
+          "points": [
+            "Regular maintenance of equipment",
+            "Proper training before operation",
+            "Use safety guards and shields",
+            "Never operate when tired",
+            "Keep first aid kit nearby"
+          ]
+        }
+      },
+      "common_issues": {
+        "heat_related": {
+          "title": "Heat-Related Illnesses",
+          "points": [
+            "Heat stroke, heat exhaustion, and dehydration are common.",
+            "Symptoms include dizziness, nausea, headache, and high body temperature.",
+            "Can be prevented by staying hydrated and taking breaks in the shade."
+          ]
+        },
+        "respiratory": {
+          "title": "Respiratory Problems",
+          "points": [
+            "Exposure to dust, molds, and chemicals can cause asthma and other issues.",
+            "Proper ventilation and wearing masks can reduce risks."
+          ]
+        }
+      },
+      "prevention": {
+        "hydration": {
+          "title": "Hydration and Nutrition",
+          "points": [
+            "Drink plenty of water throughout the day.",
+            "Eat a balanced diet to maintain energy levels.",
+            "Avoid excessive caffeine and sugary drinks."
+          ]
+        },
+        "protective_gear": {
+          "title": "Protective Gear",
+          "points": [
+            "Use appropriate personal protective equipment (PPE) for tasks.",
+            "This includes gloves, masks, boots, and hearing protection.",
+            "Ensure gear is in good condition and fits properly."
+          ]
+        }
+      },
+      "emergency_care": {
+        "first_aid": {
+          "title": "First Aid",
+          "points": [
+            "Know basic first aid for common injuries like cuts, burns, and sprains.",
+            "Have a well-stocked first aid kit easily accessible.",
+            "In case of serious injury, call emergency services immediately."
+          ]
+        }
+      }
+    }
+  }
+}
